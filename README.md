@@ -20,5 +20,5 @@
 ## Example
 
 ```bash
-rosrun odom_mover odom_mover3
+ros2 run odom_mover odom_mover3
 ```
